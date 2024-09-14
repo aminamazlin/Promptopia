@@ -5,8 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Promptopia is a web application that lets easily you copy pre-made prompts to get you the perfects answer to your question. You can filter by username, tag or a keyword.
 
 Make sure you have the following installed on your machine:
-•Node.js
-•Npm (Node Package Manager)
+- Node.js
+* Npm (Node Package Manager)
 
 
 First, install the dependencies:
