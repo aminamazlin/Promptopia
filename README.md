@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Promptopia is a web application that lets easily you copy pre-made prompts to get you the perfects answer to your question. You can filter by username, tag or a keyword. You can also create, delete or edit a prompt yourself if you're signed in with Google.
+Promptopia is a web application that lets easily you copy pre-made prompts to get you the perfect answer to your question. You can filter by username, tag or a keyword. You can also create, delete or edit a prompt yourself if you're signed in with Google.
 
 Make sure you have the following installed on your machine:
 - Node.js
